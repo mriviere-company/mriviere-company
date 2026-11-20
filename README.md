@@ -3,7 +3,7 @@
 *[English version below](#english)*
 
 **Développeur senior depuis 9 ans — backend PHP/Symfony, je conçois aujourd'hui des fonctionnalités d'IA en production.**
-Région de Montréal, Québec · Français et anglais · [LinkedIn](https://www.linkedin.com/in/rivierematthieu/) · riviere.matthieu@outlook.com
+Région de Montréal, Québec · Français et anglais · [LinkedIn](https://www.linkedin.com/in/rivierematthieu/) · riviere.matthieu@outlook.com · [CV développeur IA (PDF)](https://drive.google.com/file/d/1Pnbo4yfsbeXbcqdm_6JrIQRysyQVeQM3/view)
 
 ## Projets phares
 
@@ -49,7 +49,7 @@ Aujourd'hui, je développe avec des agents de code (Claude Code), encadrés par 
 # Matthieu Rivière
 
 **Senior developer, 9 years — PHP/Symfony backend, now building AI features in production.**
-Montréal area, Québec · French and English · [LinkedIn](https://www.linkedin.com/in/rivierematthieu/) · riviere.matthieu@outlook.com
+Montréal area, Québec · French and English · [LinkedIn](https://www.linkedin.com/in/rivierematthieu/) · riviere.matthieu@outlook.com · [AI Engineer resume (PDF)](https://drive.google.com/file/d/1chsvLeRqhlB4i3cgzMpp5kHxpIdKBtu8/view)
 
 ## Featured projects
 
